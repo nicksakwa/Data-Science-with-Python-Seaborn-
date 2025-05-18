@@ -2,7 +2,7 @@
 
 In this GitHub repository, I discuss Data Science with Python Seaborn library.
 
-# Python with Pandas for Data 
+# Data Science with Python Seaborn
 
 Pandas is a  core library used for reading, analyzing, cleaning, and visualizing data from CSV files, excel sheets, JSON data, and SQL databases.
 
